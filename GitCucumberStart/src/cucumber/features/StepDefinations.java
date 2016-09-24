@@ -24,6 +24,7 @@ public WebDriver Appln;
 		Appln=CommonLib.Prereqisite();
 		Appln.navigate().to(arg1);
 		System.out.println("test");
+		System.out.println("new update");
 		
 	}
 
